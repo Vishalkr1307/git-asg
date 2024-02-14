@@ -6,6 +6,18 @@ also know anout commit and pull and merge
 
 
 
+today is my asg:- 
+git init
+git status
+git commit
+git branch
+
+
+thanks for regard
+vishal1307
+ph:-91223
+
+
 
 thanks  for service 
 
