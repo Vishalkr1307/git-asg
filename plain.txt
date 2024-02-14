@@ -2,3 +2,11 @@ hii
 Vishal this is a plai text for checing the concept to git gub
 today  I lear about git github gitlab and bit bucket
 also know anout commit and pull and merge
+
+
+
+today is my asg:- 
+git init
+git status
+git commit
+git branch
