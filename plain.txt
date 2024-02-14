@@ -10,3 +10,8 @@ git init
 git status
 git commit
 git branch
+
+
+thanks for regard
+vishal1307
+ph:-91223
